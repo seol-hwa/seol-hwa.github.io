@@ -10,6 +10,8 @@
   --gray-800: #343a40;
   --gray-900: #212529;
 
+  --dark:#000;
+
   --red: #fa5252;
   --pink: #e64980;
   --grape: #be4bdb;
@@ -32,7 +34,11 @@
   --body-color: var(--gray-700);
   --body-bg: #fff;
 
-  --text-font: Times, "Times New Roman", "Free Serif", "Noto Serif", TimesNewRomanPSMT, "Droid Serif";
+  --text-font: //Times, "Times New Roman", 
+  "Free Serif", "Noto Serif", TimesNewRomanPSMT, "Droid Serif";
+
+  --side-color:var(--gray-700);
+  --side-hover-color:var(--dark);
 
   --link-color: var(--blue);
   --link-hover-color: #1c7ed6;
